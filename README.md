@@ -4,7 +4,7 @@
 
 ## EN/ESP🌎
 
-## Learning Web design, Back en with node.js and basic python🐍
+## Learning Web design, Back end with node.js and basic python🐍
 
 open to all kinds of projects acording to my level.
 
